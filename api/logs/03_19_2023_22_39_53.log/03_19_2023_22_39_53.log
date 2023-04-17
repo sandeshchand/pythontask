@@ -1,0 +1,16 @@
+[ 2023-03-19 22:39:53,271 ] 43 root - INFO - start_date 2023-03-19
+[ 2023-03-19 22:39:53,271 ] 46 root - INFO - end_date 2023-03-19
+[ 2023-03-19 22:39:53,271 ] 48 root - INFO - daysrange range(0, 1)
+[ 2023-03-19 22:39:53,271 ] 56 root - INFO - Downloading 2023-03-19
+[ 2023-03-19 22:39:53,272 ] 63 root - INFO - current_pages 1
+[ 2023-03-19 22:39:53,475 ] 66 root - INFO - API request on date 2023-03-19 was successful
+[ 2023-03-19 22:39:53,477 ] 73 root - INFO - total_pages 1
+[ 2023-03-19 22:40:13,499 ] 34 root - INFO - file has been moved from source folder data\raw\2018-01-01.csv to destination folder data\processed\2018-01-01.csv
+[ 2023-03-19 22:40:13,516 ] 34 root - INFO - file has been moved from source folder data\raw\2018-01-02.csv to destination folder data\processed\2018-01-02.csv
+[ 2023-03-19 22:40:13,521 ] 34 root - INFO - file has been moved from source folder data\raw\2018-01-03.csv to destination folder data\processed\2018-01-03.csv
+[ 2023-03-19 22:40:13,526 ] 34 root - INFO - file has been moved from source folder data\raw\2018-01-04.csv to destination folder data\processed\2018-01-04.csv
+[ 2023-03-19 22:40:13,531 ] 34 root - INFO - file has been moved from source folder data\raw\2018-01-05.csv to destination folder data\processed\2018-01-05.csv
+[ 2023-03-19 22:40:13,535 ] 34 root - INFO - file has been moved from source folder data\raw\2018-01-06.csv to destination folder data\processed\2018-01-06.csv
+[ 2023-03-19 22:40:13,539 ] 34 root - INFO - file has been moved from source folder data\raw\2018-01-07.csv to destination folder data\processed\2018-01-07.csv
+[ 2023-03-19 22:40:13,549 ] 34 root - INFO - file has been moved from source folder data\raw\2023-03-19.csv to destination folder data\processed\2023-03-19.csv
+[ 2023-03-19 22:40:13,552 ] 39 root - INFO - All the file has been successfully processed
